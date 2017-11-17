@@ -1,4 +1,4 @@
-# deploy-uberjar
+# lein-deploy-uberjar
 
 Leiningen plugin to deploy uberjars to defined repository in project.
 
